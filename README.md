@@ -1,7 +1,4 @@
-# hello-world-again
-em, this is the second time i want to learn github
-i'm a lazy guy, and i'm not a persist learner.
-anyway, i hope this time,i will make it!
+# 5 eBooks for ML
 
 Five books for machine learning:
 1. Introduction to machine learning by Nils J. Nilsson 1998 已下载
