@@ -2,6 +2,7 @@
 
 ## 基础篇
 1.吴恩达机器学习课程： https://www.coursera.org/learn/machine-learning
+  leaening from data:https://www.youtube.com/watch?v=mbyG85GZ0PI&hd=1
 2.python基础知识
 3.经典书籍：python machine learning ---sebasaian raschka
 
