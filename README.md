@@ -12,6 +12,7 @@
 
 ## 深入前沿
 到这一步需要了解，深度学习，各种学习框架。
+入门Tensorflow：http://space.bilibili.com/16696495/#/channel/detail?cid=1588
 1. 吴恩达深度学习课程：https://www.deeplearning.ai/
    网易云课堂：http://mooc.study.163.com/smartSpec/detail/1001319001.htm
 2. 深度学习书籍：deep learning:http://www.deeplearningbook.org/
