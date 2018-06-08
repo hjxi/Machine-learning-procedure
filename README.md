@@ -1,4 +1,4 @@
 # 机器学习入门教程
 
-1## 吴恩达机器学习入门
-链接：Machine Learning | Coursera
+## 基础篇
+1.吴恩达机器学习课程： https://www.coursera.org/learn/machine-learning
