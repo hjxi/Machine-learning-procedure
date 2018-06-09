@@ -1,4 +1,7 @@
 # 机器学习入门教程
+# 阶段式学习 or 实用主义？
+ 机器学习不需要懂数学：http://www.sharpsightlabs.com/blog/machine-learning-prerequisite-isnt-math/,
+ 更多的是数据分析：数据收集，数据准备，探索数据，数据可视化，机器学习只是一个工具箱，让你能拿出需要的工具进行分析数据。
 
 ## 基础篇
 1.吴恩达机器学习课程： https://www.coursera.org/learn/machine-learning
