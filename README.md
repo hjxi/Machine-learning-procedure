@@ -2,13 +2,13 @@
 # 阶段式学习 or 实用主义？
  机器学习不需要懂数学：http://www.sharpsightlabs.com/blog/machine-learning-prerequisite-isnt-math/,
  更多的是数据分析：数据收集，数据准备，探索数据，数据可视化，机器学习只是一个工具箱，让你能拿出需要的工具进行分析数据。
-“ If you’re working in Python, learn the following:
- – Base python
- – Pandas, for aggregating and reshaping your data
- – Matplotlib for data visualization. In particular, learn pyplot for basic visualizations, and use Seaborn for more advanced statistical   graphics
- – Learn to use Pandas and data visualizations together for exploratory data analysis.
- ”
- ---Sharp Sight
+“ If you’re working in Python, learn the following:  
+ – Base python  
+ – Pandas, for aggregating and reshaping your data  
+ – Matplotlib for data visualization. In particular, learn pyplot for basic visualizations, and use Seaborn for more advanced statistical   graphics  
+ – Learn to use Pandas and data visualizations together for exploratory data analysis.  
+ ”  
+ ---Sharp Sight  
 
 ## 基础篇
 1.吴恩达机器学习课程： https://www.coursera.org/learn/machine-learning
